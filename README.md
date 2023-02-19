@@ -5,5 +5,6 @@ Nested Repeats Code Explanation Video: https://www.youtube.com/watch?v=vqNmBFL2d
 Events Code Explanation Video: https://www.youtube.com/watch?v=t74FYqScOw0  
 Variables Code Explanation Video: https://www.youtube.com/watch?v=utwFK7CObw0  
 Conditional Loops Code Explanation Video: https://www.youtube.com/watch?v=yPXmMLBJ-YM  
+If Statements Code Explanation Video: https://www.youtube.com/watch?v=M5foDmpIFVQ
   
 Animal Parade Quest: https://www.youtube.com/watch?v=2tgJez30B_A
