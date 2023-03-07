@@ -8,5 +8,6 @@ Conditional Loops Code Explanation Video: https://www.youtube.com/watch?v=yPXmML
 If Statements Code Explanation Video: https://www.youtube.com/watch?v=M5foDmpIFVQ  
 Nested If/Else Code Explanation Video: https://www.youtube.com/watch?v=Sxnh-V0_vOA  
 Compound Conditionals Code Explanation Video: https://www.youtube.com/watch?v=rRV7hJ8ldic  
+Abstraction Code Explanation Video: https://www.youtube.com/watch?v=RUc9Iz-GjwY  
   
 Animal Parade Quest: https://www.youtube.com/watch?v=2tgJez30B_A
